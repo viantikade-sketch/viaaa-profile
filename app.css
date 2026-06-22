@@ -1,8 +1,8 @@
 body {
     background: linear-gradient(
-        
-    #fc70a6 0%, 
-    #ffa3dc 40%, #fa0881 100%);
+        135deg,
+    #f7b9cc 0%, 
+    #ffd6e7 50%, #ffc2d9 100%);
 }
 .profile {
     display: flex;
